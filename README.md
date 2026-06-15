@@ -3,8 +3,14 @@ I am a BCA student learning Python from scratch-properly.
 This repo contains my notes and practice files for every topic.
 
 ## Structure
--/notes -> Markdown notes for each chapter
--/practice -> Python programs i wrote myself
+```code
+python-mastery/
+├── notes/
+│   └── (Markdown notes for each chapter)
+├── practice/
+│   └── (Python programs i wrote myself)
+└── README.md
+```
 
 ## Progress
 - [ ] Chapter 1 - Variable & Data Types
