@@ -60,4 +60,7 @@ print(" Drill 5 : ")
 print("=========================================")
 ages=input("Enter age :")
 print(ages + 10) # This will give an error because age is a string and we cannot add an integer to a string
+# To fix it, we need to convert the input to an integer before adding 10
+# ages=int(input("Enter age :"))
+# print(ages + 10)
 print("=========================================")
