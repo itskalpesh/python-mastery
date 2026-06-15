@@ -13,7 +13,7 @@ python-mastery/
 ```
 
 ## Progress
-- [ ] Chapter 1 - Variable & Data Types
+- [x] Chapter 1 - Variable & Data Types
 - [ ] Chapter 2 - Strings
 - [ ] Chapter 3 - Lists
 - [ ] Chapter 4 - Dictionaries
