@@ -14,7 +14,7 @@ python-mastery/
 
 ## Progress
 - [x] Chapter 1 - Variable & Data Types
-- [ ] Chapter 2 - Strings
+- [x] Chapter 2 - Strings
 - [ ] Chapter 3 - Lists
 - [ ] Chapter 4 - Dictionaries
 - [ ] Chapter 5 - Loops & Logic
