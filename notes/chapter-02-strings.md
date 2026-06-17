@@ -47,7 +47,7 @@ text.split()                    # ["hello", "world"] <-  splits into a list
 ```
 ```python
 sentence = "Python is awesome"
-sentence.startwith("Python")    # True
+sentence.startswith("Python")    # True
 sentence.endswith("awesome")    # True
 sentence.find("is")             # 7     <-  index where "is" starts
 sentence.count("0")             # 2     <-  how many times "o" appears
@@ -144,7 +144,7 @@ print('He said "Hello"') # no escape needed
 
 # --- Drill 2: String Methods ---
 # Store this exact string:
-text = "  python is GREAT for beginners  "
+# text = "  python is GREAT for beginners  "
 # Print it: uppercased, lowercased,
 # stripped of spaces, with "GREAT" replaced by "perfect"
 
@@ -152,7 +152,7 @@ text = "  python is GREAT for beginners  "
 
 # --- Drill 3: Split & Join ---
 # Split this sentence into a list of words:
-sentence = "I am becoming a Python developer"
+# sentence = "I am becoming a Python developer"
 # Print the list
 # Print how many words are in it
 # Join it back into a string using "-" instead of spaces
