@@ -59,7 +59,8 @@ print("==========================================")
 msg=input("enter sentence : ")
 print(len(msg))
 print(len(msg.replace(" ","")))
-print()
+print(msg.count("a"))
+print(msg.startswith("I"))
 print("==========================================\n")
 
 # --- Drill 5: The Real Challenge ---
@@ -76,5 +77,8 @@ print("==========================================\n")
 
 print("Drill 5 :")
 print("==========================================")
-
+fname=input("enter full name : ")
+print(len(fname))
+print(fname[:-1])
+print(".".join(word[0] for word in fname.split())+".")
 print("==========================================\n")
