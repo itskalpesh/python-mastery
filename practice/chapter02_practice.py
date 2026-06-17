@@ -79,7 +79,6 @@ print("Drill 5 :")
 print("==========================================")
 fname=input("enter full name : ")
 print(len(fname.replace(" ","")))
-
 print(fname[::-1])
 print(".".join(word[0] for word in fname.split())+".")
 print("==========================================\n")
