@@ -130,4 +130,4 @@ print(f"My name is {name} and i am {age} years old") # display str & var value u
 # Try it. See the error. Understand why. Fix it.
 ```
 ## Date Completed
-15 June 2026
+15-06-2026
